@@ -1,1 +1,13 @@
 *********************************** Om Namoh Narayan Om shree Ganeshay Namah ***************************
+
+llama-2-70b model and architecture
+
+* this model is open source and so we can be aware about the archithecture of this modle it has mainly two component 1 c language code a single file with arount 500 lines and 
+second is parameter file which is weight for neural nertworks where the mgic resides.
+
+* installing and running llama in local mac book is called inferencing the model or model inferencing.
+
+*
+
+
+
